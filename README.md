@@ -23,8 +23,7 @@ This is an active project. I add new artifacts as I complete them.
 | QA progress log | [docs/qa-progress-log.md](docs/qa-progress-log.md) | Dated log of QA work |
 | Bug report template | [templates/bug-report-template.md](templates/bug-report-template.md) | The structure I use for every bug |
 
-Bugs are also tracked as [GitHub Issues](https://github.com/aysuismayil/YumYum-Mobile-Nutrition-App-QA/issues) and on the GitHub Project board **Mobile Nutrition App - QA**
-(Backlog → Ready for Testing → In Progress → Bug Reported → Ready for Retest → Done).
+Bugs are also tracked as [GitHub Issues](https://github.com/aysuismayil/YumYum-Mobile-Nutrition-App-QA/issues).
 
 ---
 

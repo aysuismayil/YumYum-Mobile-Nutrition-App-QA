@@ -100,7 +100,7 @@ This document describes the plan for testing the "Subscription" feature of the Y
 ### Tools
 
 - Real iOS device (iPhone 16 Pro)
-- GitHub Issues and GitHub Project board – bug tracking
+- GitHub Issues – bug tracking
 - TestRail – test case management (test cases are being added)
 
 ## TEST DOCUMENTATION & REPORTING

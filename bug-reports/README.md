@@ -14,7 +14,7 @@
 | [BUG-004](BUG-004.md) | [Challenge] Push notification is received after User already logged a food | Challenges & milestones | P2 — degraded, but there is a workaround | Not set | Bug Reported | Exploratory / core-app testing |
 | [BUG-005](BUG-005.md) | [7-Day Challenge] The Challenge is reversed to "Start 7 days challenge" after User logs out and logs back in | Challenges & milestones | P1 | Not set | Bug Reported | Exploratory / core-app testing |
 
-Status is the column on the GitHub Project board. BUG-002 to BUG-005 were found during exploratory testing of the core app. They were not found while running the Subscription Test Plan.
+BUG-002 to BUG-005 were found during exploratory testing of the core app. They were not found while running the Subscription Test Plan.
 
 **Severity and priority:** Severity values are shown exactly as recorded in the GitHub Issues (for example "P1" and "P2 — degraded, but there is a workaround"). Priority is a separate field and is not set yet for most bugs.
 
